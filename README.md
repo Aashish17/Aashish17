@@ -1,10 +1,5 @@
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17214
-Fork on GitHub
-4939
+
 
 <h1 align="center">Hi 👋, I'm Aashish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
